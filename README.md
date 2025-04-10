@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Shadman Chowdhury
 
-- 🎓 CSE graduate  
+- 🎓 Recently CSE graduate  
 - 🚀 Passionate about tech and research  
 - 🌱 Always eager to learn, build, and grow with the community  
 
