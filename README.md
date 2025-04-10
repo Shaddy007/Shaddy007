@@ -1,14 +1,14 @@
-# 👋 Hello there! I'm Shadman Chowdhury
+## Hello there! I'm Shadman Chowdhury
 
 - 🎓 Recently graduated in Computer Science and Engineering  
 - 🚀 Passionate about tech and research  
 - 🌱 Always eager to learn, build, and grow with the community  
 
 📫 Let's connect:  
-<a href="https://www.linkedin.com/in/shadman-s-chowdhury-662400223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>  
-<a href="https://www.facebook.com/Shadman.chowdhurry/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shadman-s-chowdhury-662400223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shadman" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Shadman.chowdhurry/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shadman" height="30" width="40" /></a>
+</p>
 
----
 
 ## GitHub Stats
 
