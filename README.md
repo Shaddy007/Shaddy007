@@ -8,7 +8,7 @@
 
 <div align="left">
 <a href="https://linkedin.com/in/shadman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shadman" height="30" width="40" /></a>
-<a href="https://fb.com/shadman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shadman" height="30" width="40" /></a>
+<a href="https://fb.com/shadman" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg](https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg)" alt="shadman" height="30" width="40" /></a>
 </p>
 
 
