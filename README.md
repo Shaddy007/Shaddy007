@@ -4,10 +4,7 @@
 - 🚀 Passionate about tech and research  
 - 🌱 Always eager to learn, build, and grow with the community  
 
-📫 Let’s connect: [facebook.com/Shadman.chowdhurry](https://facebook.com/Shadman.chowdhurry)
-
-
-###
+📫 Let’s connect: 
 
 <div align="left">
 
