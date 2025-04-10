@@ -7,11 +7,6 @@
 📫 Let’s connect: 
 
 <div align="left">
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/Shadman.chowdhurry/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/shadman-s-chowdhury-662400223/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/Shaddy007)
-
-
 
 
 
