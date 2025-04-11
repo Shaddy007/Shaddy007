@@ -12,6 +12,10 @@
 
 ## GitHub Stats
 
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shaddy007&theme=monokai" alt="Most Commit Language" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shaddy007&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </p>
