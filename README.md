@@ -2,7 +2,33 @@
 
 - 🎓 Recently graduated in CSE  
 - 🚀 Passionate about tech and research  
-- 🌱 Always eager to learn, build, and grow with the community  
+- 🌱 Always eager to learn, build, and grow with the community
+
+
+<div align="center">
+
+
+
+<a href="https://mhtafhim.github.io/portfolio">
+    <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=homeadvisor&logoColor=white">
+</a>  
+
+<a href="mailto:mahmudulhoquetafhim@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/mh-tafhim/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+
+<a href="https://mhtafhim.github.io/portfolio">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=for-the-badge&logo=adobe">
+</a>  
+
+</div>
+
+
 
 ### 📫 Let's connect
 <div style="display: flex; align-items: center; gap: 10px;">
