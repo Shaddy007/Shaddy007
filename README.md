@@ -9,15 +9,15 @@
 
 
 
-<a href="https://mhtafhim.github.io/portfolio">
+<a href="https://shaddy007.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=homeadvisor&logoColor=white">
 </a>  
 
-<a href="mailto:mahmudulhoquetafhim@gmail.com">
+<a href="mailto:shadmansadiq230@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/mh-tafhim/">
+<a href="https://www.linkedin.com/in/shadmanchowdhurry/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
