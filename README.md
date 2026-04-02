@@ -46,7 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaddy007&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Shaddy007&theme=onedark&hide_border=false" alt="GitHub Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Shaddy007&theme=onedark&hide_border=false" alt="GitHub Streak" />
 </p>
