@@ -18,27 +18,12 @@ Passionate about improving user experience through quality-focused thinking and 
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaddy007&theme=monokai&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
+### 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaddy007&theme=onedark&hide_border=false" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Shaddy007&theme=onedark&hide_border=false" alt="GitHub Streak" />
-</p>
+<div align="center">
 
----
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shaddy007&theme=onedark)
 
-## 🏆 Top Contributed Repositories
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Shaddy007&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shaddy007&theme=dracula&card_width=700)](https://git.io/streak-stats)
 
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Shaddy007&icon=0&color=0" alt="Visitor Count" />
-  </a>
-</p>
+</div>
