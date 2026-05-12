@@ -5,6 +5,7 @@
 ---
 
 ### 🚀 About Me
+
 Interested in **manual testing, API testing, defect reporting, and test case design**.  
 Focused on improving software reliability through quality-focused thinking, clear analysis, and continuous learning.
 
@@ -28,12 +29,12 @@ Focused on improving software reliability through quality-focused thinking, clea
   </a>
   &nbsp;&nbsp;
 
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:shadmansadiq230@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" height="42" width="42" />
   </a>
   &nbsp;&nbsp;
 
-  <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">
+  <a href="https://shaddy007.github.io/" target="_blank">
     <img src="https://img.icons8.com/color/48/domain--v1.png" height="42" width="42" />
   </a>
 </p>
@@ -48,13 +49,13 @@ Focused on improving software reliability through quality-focused thinking, clea
 
 </div>
 
-
+---
 
 ### 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shaddy007&theme=onedark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shaddy007&theme=onedark" width="30%" />
 
 <br/><br/>
 
